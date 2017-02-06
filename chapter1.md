@@ -1,15 +1,14 @@
 ---
-title       : Testing Spark
-description : Testing Spark fo sho
-attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+title       : Testing Spark for Python
+description : Testing Spark for Python
 
 --- type:NormalExercise lang:python xp:100 skills:1 key:2653a94a11
 ## A Spark Python exercise
 
-This is an exercise to test spark for python. There's no pre exercise code.
+On init, a spark cluster is started up.
 
 *** =instructions
+- You can experiment with spark in the IPython shell.
 
 *** =pre_exercise_code
 ```{python}
